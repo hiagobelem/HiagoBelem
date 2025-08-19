@@ -1,10 +1,11 @@
 ## Olá, me chamo Hiago Belém 👋🏽
 
-- 🧑🏽‍💻 Atualmente me dedicando a projetos de programação e aprendizado autodidata em Ciência da Computação.
-- 🌱 Me desenvolvendo em HTML, CSS e JavaScript.
-- 📚 Aprendendo algoritmos, estruturas de dados e boas práticas de programação.
-- 🎯 Meu objetivo é me tornar desenvolvedor front-end e criar projetos práticos.
-- 🕹️ Gosto de jogos, seja desktop ou mobile.
-- 📖 Gosto de ler em geral.
-- ❤️ Amo minha família.
+- 🧑🏽‍💻 Apaixonado por programação e aprendizado autodidata em Ciência da Computação, me aperfeiçoando em HTML, CSS e JavaScript.
+- 📚 Curioso por algoritmos, estruturas de dados e boas práticas de código, sempre criando projetos práticos.
+- 🕹️ Gamer e leitor, equilibrando tecnologia e diversão.
+- ❤️ Família é meu porto seguro.
+  
+### Tecnologias utilizadas e estatísticas
 
+![Hiago Belém GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagobelem&show_icons=true&theme=github_dark_dimmed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobelem&icons=true&theme=github_dark_dimmed)](https://github.com/hiagobelem/github-readme-stats)
