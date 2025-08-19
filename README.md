@@ -4,9 +4,13 @@
 - 📚 Curioso por algoritmos, estruturas de dados e boas práticas de código, sempre criando projetos práticos.
 - 🕹️ Gamer e leitor, equilibrando tecnologia e diversão.
 - ❤️ Família é meu porto seguro.
-  
-### Tecnologias utilizadas e estatísticas
 
+### Contate-me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-miranda-belém)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hiagomirandabelem/)
+
+
+## Tecnologias utilizadas e estatísticas
 ![Hiago Belém GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagobelem&show_icons=true&theme=github_dark_dimmed)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobelem&icons=true&theme=github_dark_dimmed)](https://github.com/hiagobelem/github-readme-stats)
 
